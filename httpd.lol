@@ -47,6 +47,13 @@ HAI 1.4
 
         BTW parse the file name
         I HAS A name ITZ I IZ parse YR cmd MKAY
+
+        BTW get index.html if the filename is empty
+        BOTH SAEM name AN "", O RLY?
+            YA RLY
+                name R "index.html"
+        OIC
+
         VISIBLE "FIEL IZ " AN name
 
         I HAS A reply ITZ ""
